@@ -1,9 +1,0 @@
-# CurseForge: modId,fileId
-CF:306612,7670328
-
-# Modrinth: versionId
-MR:NjzPNZyR
-MR:1yyWjdsy
-MR:6fQXv7Yl
-MR:a58QqcrL
-MR:2THiSvPG
